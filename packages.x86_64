@@ -1,7 +1,5 @@
 alsa-utils
 amd-ucode
-arch-install-scripts
-archinstall
 b43-fwcutter
 base
 bcachefs-tools
@@ -9,7 +7,6 @@ bind
 bolt
 brltty
 broadcom-wl
-btrfs-progs
 clonezilla
 cloud-init
 cryptsetup
@@ -122,6 +119,10 @@ wireless-regdb
 wireless_tools
 wpa_supplicant
 wvdial
-xfsprogs
 xl2tpd
 zsh
+
+
+# Custom packages
+plasma
+ArttulOS-Calamares-config

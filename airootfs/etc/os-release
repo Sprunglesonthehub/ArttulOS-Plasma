@@ -1,0 +1,12 @@
+NAME="ArttulOS"
+PRETTY_NAME="ArttulOS"
+ID=ArttulOS
+BUILD_ID=ArttulOS
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL=""
+DOCUMENTATION_URL="https://darrengames.ddns.net:2500/index.php?title=Main_Page"
+SUPPORT_URL="sprungles.me@tuta.io"
+BUG_REPORT_URL=""
+PRIVACY_POLICY_URL="none"
+IMAGE_ID=ArttulOS
+IMAGE_VERSION=0.0.1
